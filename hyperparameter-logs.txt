@@ -1,0 +1,3 @@
+k = n -> 33.31% accuracy
+k = 13 -> 92.12% accuracy
+k = 31 -> 90.44% accuracy 
