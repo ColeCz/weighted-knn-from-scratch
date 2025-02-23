@@ -1,3 +1,6 @@
-k = n -> 33.31% accuracy
+# Unfortunately, this seems to be getting worse with higher k values, which is the opposite of my hypothesis.
+# And I don't have an environment where I can run this expirement repeatedly. 
+
 k = 13 -> 92.12% accuracy
-k = 31 -> 90.44% accuracy 
+k = 31 -> 90.44% accuracy
+k = n -> 33.31% accuracy

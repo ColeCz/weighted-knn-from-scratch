@@ -1,5 +1,10 @@
 import numpy as np
 
+'''
+This program is a simple extension of k-NN, it weights neighbor's votes inversely according to distance. 
+This should help the model ignore outlier neighbors, though I have not set up the tools to run this expirement repeatedly.
+'''
+
 
 def weighted_kNN(training_data, training_labels, testing_data, k=None) -> list:
 
